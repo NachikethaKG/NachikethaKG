@@ -5,13 +5,14 @@
 
   <!-- Dynamic Typing Title -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Full-Stack+%26+Backend+Engineer;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Building+scalable+systems+%26+incubated+tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vcenter=true&width=650&lines=Applied+AI+Engineer+%26+Java+Full-Stack+Developer;Agentic+AI+%7C+LangGraph+%7C+Computer+Vision+%7C+YOLOv8;Java+21%2F24+%7C+Spring+Boot+3+%7C+React+%7C+FastAPI;Building+end-to-end+AI+systems+%26+incubated+tech" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <!-- Socials & Profile Views -->
   <p>
+    <a href="mailto:nachikethakg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/NachikethaKG"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
     <img src="https://komarev.com/ghpvc/?username=NachikethaKG&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
   </p>
@@ -22,27 +23,35 @@
 
 ### 🚀 About Me
 
-- 💻 **Computer Science & Software Engineering** student at REVA University, focusing on full-stack web architectures and system design.
-- 🏥 **Incubated Founder Experience:** Built and pitched a healthcare AI summarization platform that achieved official college incubation status.
-- ⚙️ **Core Focus:** Clean code design, robust backend systems, and responsive user interfaces.
+- 🤖 **Applied AI & Full-Stack Engineer** who builds and ships production-grade AI systems, multi-agent orchestrations, and full-stack web applications.
+- 🏥 **Incubated Founder Experience:** Built **SummAID** (Generative AI Medical Intelligence Platform), which was selected for incubation at Dr. Chandrashekhar Hearing and Speech Hospital.
+- 📜 **IBM Certified** in Generative AI & Agentic AI with 100+ LeetCode problems solved.
+- 🎓 Pursuing **B.Tech in Information Science and Engineering** at REVA University, Bengaluru.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,py,postgres,docker,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=py,java,spring,react,nodejs,fastapi,postgres,docker,git,github,vscode,idea" />
 </p>
+
+- **Agentic AI & LLMs:** LangGraph, LangChain, RAG Pipelines, Hybrid Vector (pgvector, ChromaDB) + Graph (Neo4j) Retrieval, Agent Tool-Calling[cite: 1]
+- **Computer Vision:** YOLOv8, EasyOCR, Real-time video-frame processing, OS-level window hooks[cite: 1]
+- **Backend & Full-Stack:** Java (21/24), Spring Boot 3, Python (FastAPI), Node.js, React, SQL, PostgreSQL, MySQL[cite: 1]
+- **Infrastructure & Reliability:** Temporal Workflow Engine, Docker, Pydantic Structured Data Ingestion, Hallucination Reduction[cite: 1]
 
 ---
 
-### 📌 Highlighted Projects
+### 📌 Featured AI Systems & Full-Stack Projects
 
-| Project | Description | Stack | Status |
+| Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **Comply50** | Financial compliance & web verification platform optimized for seamless user navigation. | `React` `TypeScript` `Spring Boot` `SQL` | Active |
-| **PaySafeX** | Automated tax data auditing tool that verifies purchase registers against tax records. | `Python` `React` `JavaScript` `SQL` | Active |
-| **Clinical Summarizer** | Healthcare software streamlining clinical data summarization for fast medical review. | `Java` `Spring Boot` `React` | Incubated |
+| **Privex Agentic AI** | Local-first Visual Firewall for real-time redaction during video calls + Hybrid RAG memory pipeline (Vector + Neo4j)[cite: 1]. | `Python` `LangGraph` `YOLOv8` `Neo4j` `FastAPI` | Active[cite: 1] |
+| **Aegis AI System** | Multi-agent research system using Temporal for durable workflow orchestration with 99.9% task recovery[cite: 1]. | `Python` `Node.js` `ChromaDB` `Temporal` `Docker` | Active[cite: 1] |
+| **SummAID** | GenAI medical summarization platform cutting clinical review time from 12 mins to <50 seconds with page-level PDF citations[cite: 1]. | `Python` `FastAPI` `React` `PostgreSQL` `Llama 3` | Hospital Incubated[cite: 1] |
+| **Agentic CRM** | 6+ agent system automating sales and support workflows, lead scoring, and triage with grounding checks[cite: 1]. | `Python` `FastAPI` `React` `LangGraph` | Active[cite: 1] |
+| **Comply50 & PaySafeX** | Production-style payroll compliance engine (100% accuracy) & financial risk-detection/reconciliation systems[cite: 1]. | `Java` `Spring Boot 3` `React` `MySQL` `Docker` | Production-Style[cite: 1] |
 
 ---
 
@@ -62,7 +71,6 @@
 ---
 
 <div align="center">
-  <i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i>
+  <i>"Measuring accuracy/latency trade-offs and iterating from prototype to working system."[cite: 1]</i>
 </div>
-
 
