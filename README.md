@@ -36,10 +36,10 @@
   <img src="https://skillicons.dev/icons?i=py,java,spring,react,nodejs,fastapi,postgres,docker,git,github,vscode,idea" />
 </p>
 
-- **Agentic AI & LLMs:** LangGraph, LangChain, RAG Pipelines, Hybrid Vector (pgvector, ChromaDB) + Graph (Neo4j) Retrieval, Agent Tool-Calling[cite: 1]
-- **Computer Vision:** YOLOv8, EasyOCR, Real-time video-frame processing, OS-level window hooks[cite: 1]
-- **Backend & Full-Stack:** Java (21/24), Spring Boot 3, Python (FastAPI), Node.js, React, SQL, PostgreSQL, MySQL[cite: 1]
-- **Infrastructure & Reliability:** Temporal Workflow Engine, Docker, Pydantic Structured Data Ingestion, Hallucination Reduction[cite: 1]
+- **Agentic AI & LLMs:** LangGraph, LangChain, RAG Pipelines, Hybrid Vector (pgvector, ChromaDB) + Graph (Neo4j) Retrieval, Agent Tool-Calling
+- **Computer Vision:** YOLOv8, EasyOCR, Real-time video-frame processing, OS-level window hooks
+- **Backend & Full-Stack:** Java (21/24), Spring Boot 3, Python (FastAPI), Node.js, React, SQL, PostgreSQL, MySQL
+- **Infrastructure & Reliability:** Temporal Workflow Engine, Docker, Pydantic Structured Data Ingestion, Hallucination Reduction
 
 ---
 
@@ -47,11 +47,11 @@
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **Privex Agentic AI** | Local-first Visual Firewall for real-time redaction during video calls + Hybrid RAG memory pipeline (Vector + Neo4j)[cite: 1]. | `Python` `LangGraph` `YOLOv8` `Neo4j` `FastAPI` | Active[cite: 1] |
-| **Aegis AI System** | Multi-agent research system using Temporal for durable workflow orchestration with 99.9% task recovery[cite: 1]. | `Python` `Node.js` `ChromaDB` `Temporal` `Docker` | Active[cite: 1] |
-| **SummAID** | GenAI medical summarization platform cutting clinical review time from 12 mins to <50 seconds with page-level PDF citations[cite: 1]. | `Python` `FastAPI` `React` `PostgreSQL` `Llama 3` | Hospital Incubated[cite: 1] |
-| **Agentic CRM** | 6+ agent system automating sales and support workflows, lead scoring, and triage with grounding checks[cite: 1]. | `Python` `FastAPI` `React` `LangGraph` | Active[cite: 1] |
-| **Comply50 & PaySafeX** | Production-style payroll compliance engine (100% accuracy) & financial risk-detection/reconciliation systems[cite: 1]. | `Java` `Spring Boot 3` `React` `MySQL` `Docker` | Production-Style[cite: 1] |
+| **Privex Agentic AI** | Local-first Visual Firewall for real-time redaction during video calls + Hybrid RAG memory pipeline (Vector + Neo4j). | `Python` `LangGraph` `YOLOv8` `Neo4j` `FastAPI` | Active |
+| **Aegis AI System** | Multi-agent research system using Temporal for durable workflow orchestration with 99.9% task recovery. | `Python` `Node.js` `ChromaDB` `Temporal` `Docker` | Active |
+| **SummAID** | GenAI medical summarization platform cutting clinical review time from 12 mins to <50 seconds with page-level PDF citations. | `Python` `FastAPI` `React` `PostgreSQL` `Llama 3` | Hospital Incubated |
+| **Agentic CRM** | 6+ agent system automating sales and support workflows, lead scoring, and triage with grounding checks. | `Python` `FastAPI` `React` `LangGraph` | Active |
+| **Comply50 & PaySafeX** | Production-style payroll compliance engine (100% accuracy) & financial risk-detection/reconciliation systems. | `Java` `Spring Boot 3` `React` `MySQL` `Docker` | Production-Style |
 
 ---
 
@@ -61,16 +61,7 @@
   <img src="https://raw.githubusercontent.com/NachikethaKG/NachikethaKG/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NachikethaKG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachikethaKG&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
 ---
 
-<div align="center">
-  <i>"Measuring accuracy/latency trade-offs and iterating from prototype to working system."[cite: 1]</i>
-</div>
+
 
